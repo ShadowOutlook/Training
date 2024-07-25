@@ -43,7 +43,7 @@
 
 # День 1
 
-### Chest/Back [[Chest-Back]] [Chest-Back](https://github.com/ShadowOutlook/temporarily/blob/main/Chest-Back.md)
+#### Chest / Back [[Chest Back URL]] [Chest-Back](https://github.com/ShadowOutlook/temporarily/blob/main/Chest-Back.md)
 ```bash
 3 x 8 - 12
 ```
@@ -80,7 +80,7 @@
 **Push:**
 
 4. Incline DB bench 15 kg
-	Жим гантелей на наклонной скамье
+	Жим гантелей / штанги на наклонной скамье
 
 5. Push-ups with legs elevated and weights under the arms 2 x 12 - 15
 	Отжимания с поднятыми ногами и опорой под руками для максимальной амплитуды
@@ -102,6 +102,17 @@
 	Махи гирей на каждую руку или одна на двоих
 ```
 
+#### Chapter 3
+```bash
+**Pull**
+
+1. T-bar row
+	Тяга Т-образного грифа
+
+2. 
+```
+
+
 #### DLC 3D BACK
 ```bash
 2 x 15 kg
@@ -117,7 +128,7 @@
 ***
 
 # День 2
-### Shoulders [[Shoulders]]
+#### Shoulders [[Shoulders]]
 ```bash
 3 x 12
 ```
@@ -143,16 +154,51 @@ Side delt 9 kg
 Front delt 9 kg
 
 1. Seated DB overhead press
-	Жим гантелей над головой сидя или на тренажере
+	Жим гантелей / штанги над головой cтоя, сидя или на тренажере
 
 2. Cable front raises
 	Подъемы троса вперед
 ```
 
+#### Hand
+```bash
+3 x 10 - 15
+```
+
+#### Chapter 1
+```bash
+Biceps
+
+1. Hammer curl
+	Сгибание рук «молоток»
+
+2. Scott Bench Curls
+	1. Сгибание рук на скамье Скотта
+
+Triceps
+
+3. Dumbbell SkullCrushers
+	Французский жим гантелей / штанги лежа на наклонной скамье
+
+4. Chest supported triceps kickbacks
+	Отведение рук назад на трицепс с опорой на грудь
+```
+
+#### Chapter 2
+```bash
+Biceps
+
+1. Incline Biceps Curl
+	Сгибание бицепса на наклонной скамье
+
+2. 
+```
+
+
 ***
 
 # День 3
-### Legs [[Legs]]
+#### Legs [[Legs]]
 ```bash
 3 10 - 12
 ```
@@ -234,64 +280,27 @@ Premium exercise
 
 ***
 
-##### Hand
+# День 4
+
+#### ABS
 ```bash
-3 x 10 - 15
+3 12 - 15
 ```
 
 ```bash
-Biceps
+Oblique abdominal muscles
 
-1. Hammer curl
-	Сгибание рук «молоток»
+1. Lateral Torso Raises on a Roman Chair 10 kg
+	Боковые подъемы туловища на римском стуле
 
-2. Scott Bench Curls
-	1. Сгибание рук на скамье Скотта
+2. Landmine rollout
+	1. Скручивания на т-образном грифе
 
-Triceps
+Transverse abdominal muscle
 
-3. Dumbbell SkullCrushers
-	Французский жим гантелей лежа на наклонной скамье
+1. Landmine Rotations / twist 10 - 15 kg
+	1. Вращение т-образного грифа
 
-4. Chest supported triceps kickbacks
-	Отведение рук назад на трицепс с опорой на грудь
+2. Medball russian twist 7 kg
+	1. Русские скручивания с медболом
 ```
-
-
-
-***
-
-#### День 4
-
-##### + Push
-- [ ] Жим штанги над головой 3x6-8
-- [ ] Жим штанги на наклонной скамье 3x10-12
-- [ ] Жим от груди в тренажере 3x10-12
-- [ ] Тяга к подбородку 3x12-15
-- [ ] Французский жим штанги лежа 3x12-15
-
-***
-#### День 5
-
-##### + Pull
-- [ ] Подтягивания 3x5-10
-- [ ] Становая тяга со штангой 3x6-8
-- [ ] Тяга Т-образного грифа 3x10-12
-- [ ] Тяга верхнего блока широким хватом 3x10-12
-- [ ] Сгибание бицепса на наклонной скамье 3x12-15
-- [ ] Сгибание рук с гантелями в стойке «молот» 3x12-15
-- [ ] Рычажная тяга 3x10-15
-- [ ] Отведение плеч в стороны 3x10-12
-
-***
-
-#### День 6
-
-##### +ABS
-- [ ] Динамическая планка с поднятием гантели от бедра к плечу, от пола до верха (бабочка) и с подтягиванием колена и локтя друг к другу 3x8
-- [ ] Боковые подъемы туловища на римском стуле 2xДо отказа
-- [ ] Landmine Rotations / twist
-- [ ] Tall Rotational Slam
-- [ ] Skater Jump + Rotational Slam
-- [ ] Kettle Ball Swings
-- [ ] Landmine rollout
