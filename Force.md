@@ -1,6 +1,5 @@
 ***
 
-
 #### Перед тренировкой:
 ```bash
 Съесть 15 - 25 гр белка / быстро доступный вариант:
@@ -9,23 +8,22 @@
 150 грамм фасоль, чечевица, горох, нут.
 ```
 
-
 #### Разминочные сеты:
 ```bash
-2 x 20 повторений с легкими весами
-2 x 10 - 12 повторений, если разминаетесь с движениями с собственным весом
+20 повторений с легкими весами
+10 - 12 повторений, если разминаетесь с движениями с собственным весом
 
 Также при необходимости используйте 10-минутную разминку на эллиптическом тренажере, чтобы обеспечить приток крови ко всем частям.
 ```
 
 #### Рабочие сеты:
 ```bash
-2 - 3 сета по 8 - 12 повторений, когда вы НЕ можете ДЕЛАТЬ БОЛЬШЕ с хорошей техникой.
+2 - 3 сета по 8 - 12 повторений, когда вы НЕ можете ДЕЛАТЬ БОЛЬШЕ с хорошей техникой
 ``` 
 
 #### Здоровье сердечно-сосудистой системы:
 ```bash
-Бег с постепенным ускорением до 12 км/ч общей продолжительностью 15 минут
+Бег с постепенным ускорением до 11 км/ч общей продолжительностью 10 минут
 ```
 
 #### Разминка:
@@ -73,6 +71,9 @@
 
 3. Lat pulldowns 30+ kg
 	Тяга верхнего блока
+
+4. T-bar row
+	Тяга Т-образного грифа
 ```
 
 #### Chapter 2
@@ -101,17 +102,6 @@
 6. Kettlebell Swing 2 x 12 kg or 1 x 20 kg
 	Махи гирей на каждую руку или одна на двоих
 ```
-
-#### Chapter 3
-```bash
-**Pull**
-
-1. T-bar row
-	Тяга Т-образного грифа
-
-2. 
-```
-
 
 #### DLC 3D BACK
 ```bash
@@ -160,7 +150,101 @@ Front delt 9 kg
 	Подъемы троса вперед
 ```
 
-#### Hand
+***
+
+# День 3
+#### Legs [[Legs]]
+```bash
+3 10 - 12
+```
+
+```bash
+Big medium and small gluteus
+
+1. Sumo Squats
+	Приседания в стиле сумо
+
+2. Romanian Deadlift
+	Румынская тяга
+
+3. Crossover Leg Abduction
+	Отведение ног в кроссовере назад
+```
+
+```bash
+Front of thigh
+
+1. Front Squats
+	Фронтальные приседания
+
+2. Leg press lying on the machine
+	Жим ногами лежа на тренажере
+
+3. Stepping onto the platform
+	Вышагивание на платформу
+
+4. Leg extension machine
+	Разгибание ног в тренажере
+```
+
+***
+
+# День 4
+
+#### ABS
+```bash
+3 12 - 15
+```
+
+#### Chapter 1
+```bash
+Oblique abdominal muscles
+
+1. Lateral Torso Raises on a Roman Chair 10 kg
+	Боковые подъемы туловища на римском стуле
+
+2. Landmine rollout
+	Скручивания на т-образном грифе
+
+Transverse abdominal muscle
+
+1. Landmine Rotations / twist 10 - 15 kg
+	Вращение т-образного грифа
+
+2. Medball russian twist 7 kg
+	Русские скручивания с медболом
+```
+
+#### Chapter 2
+```bash
+Rectus abdominis muscles
+
+1. Modified Candlestick / Reverse Crunches on a Bench
+	Обратные скручивания на скамье
+
+Lower ABS
+
+1. Back supported knee raises
+	Подъем колена с опорой на спину
+
+Upper ABS
+
+1. Rope crunches
+	Скручивания в кроссовере
+
+All ABS
+1. V-ups
+	V образный подъем
+
+2. Сrunches on a fitball
+	Скручивания на фитболе
+```
+
+***
+
+# День 5
+
+#### Hand / Leg
 ```bash
 3 x 10 - 15
 ```
@@ -195,41 +279,67 @@ Biceps
 ```
 
 
+```bash
+Muscles of the thigh, posterior group
+
+1. Straight Leg Deadlift
+	Становая тяга на прямых ногах
+
+2. Wide Stance Barbell Squat
+	Приседание со штангой с широкой постановкой ног
+
+3. Leg curl machine
+	Сгибание ног в тренажере
+```
+
+```bash
+Medial thigh group: adductor muscles
+
+1. Leg adduction machine
+	Сведение ног в тренажере
+
+2. Leg abduction machine
+	Разведение ног в тренажере
+```
 ***
 
-# День 3
-#### Legs [[Legs]]
+# День 6
+
+#### Forearms / Leg
+
+#### Chapter 1
 ```bash
-3 10 - 12
+Flexors
+
+1. Cable straight bar wrist curl
+	Сгибание запястий на тросовом грифе
+
+Extensors
+
+1. Cable reverse wrist curl
+	Сгибание запястья на тросе с обратным хватом
+
+Brachioradialis
+
+1. Ez bar reverse curl
+	EZ-штанга с обратным сгибанием рук
 ```
 
+#### Chapter 2
 ```bash
-Big medium and small gluteus
+Brachioradialis
 
-1. Sumo Squats
-	Приседания в стиле сумо
+1. Crossbody Dumbbell Hammer Curl
+	Сгибание рук с гантелями через плечо в положении «молот»
 
-2. Romanian Deadlift
-	Румынская тяга
+Flexors
+1. Dumbbell wrist curl
+	Сгибание запястья с гантелями
 
-3. Crossover Leg Abduction
-	Отведение ног в кроссовере
-```
+Extensors
 
-```bash
-Front of thigh
-
-1. Front Squats
-	Фронтальные приседания
-
-2. Leg press lying on the machine
-	Жим ногами лежа на тренажере
-
-3. Stepping onto the platform
-	Вышагивание на платформу
-
-4. Leg extension machine
-	Разгибание ног в тренажере
+1. Dumbbell wrist extensions
+	Разгибание запястий с гантелями
 ```
 
 ```bash
@@ -246,19 +356,6 @@ Medial thigh group: adductor muscles
 ```
 
 ```bash
-Muscles of the thigh, posterior group
-
-1. Straight Leg Deadlift
-	Становая тяга на прямых ногах
-
-2. Wide Stance Barbell Squat
-	Приседание со штангой с широкой постановкой ног
-
-3. Leg curl machine
-	Сгибание ног в тренажере
-```
-
-```bash
 Calf muscles
 
 1. Calf raises on a special machine
@@ -268,9 +365,13 @@ Calf muscles
 	Подъем на носки с гантелями
 ```
 
-```bash
-Premium exercise
+***
 
+# Premium exercise
+
+#### Leg
+
+```bash
 1. Roll into a pistol
 	Кувырок с выходом в «пистолет»
 
@@ -278,29 +379,8 @@ Premium exercise
 	Прыжки на скакалке с попеременным выпрямлением одной ноги
 ```
 
-***
-
-# День 4
-
 #### ABS
-```bash
-3 12 - 15
-```
 
 ```bash
-Oblique abdominal muscles
 
-1. Lateral Torso Raises on a Roman Chair 10 kg
-	Боковые подъемы туловища на римском стуле
-
-2. Landmine rollout
-	1. Скручивания на т-образном грифе
-
-Transverse abdominal muscle
-
-1. Landmine Rotations / twist 10 - 15 kg
-	1. Вращение т-образного грифа
-
-2. Medball russian twist 7 kg
-	1. Русские скручивания с медболом
 ```
