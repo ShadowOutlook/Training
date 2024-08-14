@@ -46,27 +46,73 @@
 3 x 8 - 12
 ```
 
-#### Chapter 1
+#### Best option / Basis
 ```bash
 **Push:**
 
+Middle
 1. Chest flies 30 kg
 	Сведение рук спереди
 
-2. Dips
-	Отжимания на брусьях-тренажер для отжиманий
+Hight
+2. Incline DB bench 15 kg / 45 kg
+	Жим гантелей / штанги на наклонной скамье
 
-3. Chest presses 30 kg
-	Жим горизонтальный в тренажере Хаммера
+Low
+3. High to Low Cable Chest Fly
+	Сведение рук с верхней позиции к низу в кроссовере
 ```
 
 ```bash
-**Pull:**
+2 x 30 kg
+**Pull**
 
+Latissimus dorsi
+1. Vertical thrust in a Humvee
+	Вертикальная тяга в Хаммере
+
+2. Horizontal thrust in Hummer
+	Горизонтальная тяга в Хаммере
+
+Trapezius
+3. Upright rows 20 kg
+	Тяга штанги стоя к подбородку
+
+4. Incline Dumbbell Shrugs
+	Шраги с гантелями на наклонной скамье
+
+Lumbar and extensors
+5. Romanian Deadlift
+```
+
+#### Additional physical exercises
+```bash
+**Push**
+
+Hight
+1. Low to High Cable Chest Fly 2 x 15+ kg
+	Подьем каната из нижней позиции блока вверх перед грудью
+
+2. Push-ups with legs elevated and weights under the arms 2 x 12 - 15
+	Отжимания с поднятыми ногами и опорой под руками для максимальной амплитуды
+
+Middle
+3. Chest presses 30 kg
+	Жим горизонтальный в тренажере Хаммера
+
+Low
+4. Dips
+	Отжимания на брусьях
+```
+
+```bash
+**Pull**
+
+Latissimus dorsi
 1. Barbell Bent Over Rows 15 kg
 	Тяга штанги в наклоне
 
-2. Wide Grip Cable Row 30+ kg
+2. Wide Grip Cable Row 45 kg
 	Горизонтальная тяга в блочном тренажере
 
 3. Lat pulldowns 30+ kg
@@ -74,45 +120,23 @@
 
 4. T-bar row
 	Тяга Т-образного грифа
-```
-
-#### Chapter 2
-```bash
-**Push:**
-
-4. Incline DB bench 15 kg
-	Жим гантелей / штанги на наклонной скамье
-
-5. Push-ups with legs elevated and weights under the arms 2 x 12 - 15
-	Отжимания с поднятыми ногами и опорой под руками для максимальной амплитуды
-
-6. Low to High Cable Chest Fly 2 x 15+ kg
-	Подьем каната из нижней позиции блока вверх перед грудью
-```
-
-```bash
-**Pull:**
-
-4. Upright rows 20 kg
-	Тяга штанги стоя к подбородку
 
 5. Pull-ups with weights 19 kg
 	Подтягивания с отягощением или наоборот с облегчением
 
+Trapezius
 6. Kettlebell Swing 2 x 12 kg or 1 x 20 kg
 	Махи гирей на каждую руку или одна на двоих
-```
 
-#### DLC 3D BACK
-```bash
-2 x 15 kg
-**Pull**
+Lumbar and extensors
+7. Deadlift
+	Становая тяга со согнутыми ногам
 
-1. Vertical thrust in a Humvee
-	Вертикальная тяга в Хаммере
+8. Deadlift
+	Мертвая тяга на прямых ногах
 
-2. Horizontal thrust in Hummer
-	Горизонтальная тяга в Хаммере
+9. Hyperextension
+	Гиперэкстензия
 ```
 
 ***
