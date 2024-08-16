@@ -51,14 +51,17 @@
 **Push:**
 
 Middle
+
 1. Chest flies 30 kg
 	Сведение рук спереди
 
 Hight
+
 2. Incline DB bench 15 kg / 45 kg
 	Жим гантелей / штанги на наклонной скамье
 
 Low
+
 3. High to Low Cable Chest Fly
 	Сведение рук с верхней позиции к низу в кроссовере
 ```
@@ -68,6 +71,7 @@ Low
 **Pull**
 
 Latissimus dorsi
+
 1. Vertical thrust in a Humvee
 	Вертикальная тяга в Хаммере
 
@@ -75,6 +79,7 @@ Latissimus dorsi
 	Горизонтальная тяга в Хаммере
 
 Trapezius
+
 3. Upright rows 20 kg
 	Тяга штанги стоя к подбородку
 
@@ -82,6 +87,7 @@ Trapezius
 	Шраги с гантелями на наклонной скамье
 
 Lumbar and extensors
+
 5. Romanian Deadlift
 ```
 
@@ -90,6 +96,7 @@ Lumbar and extensors
 **Push**
 
 Hight
+
 1. Low to High Cable Chest Fly 2 x 15+ kg
 	Подьем каната из нижней позиции блока вверх перед грудью
 
@@ -97,10 +104,12 @@ Hight
 	Отжимания с поднятыми ногами и опорой под руками для максимальной амплитуды
 
 Middle
+
 3. Chest presses 30 kg
 	Жим горизонтальный в тренажере Хаммера
 
 Low
+
 4. Dips
 	Отжимания на брусьях
 ```
@@ -109,6 +118,7 @@ Low
 **Pull**
 
 Latissimus dorsi
+
 1. Barbell Bent Over Rows 15 kg
 	Тяга штанги в наклоне
 
@@ -125,10 +135,12 @@ Latissimus dorsi
 	Подтягивания с отягощением или наоборот с облегчением
 
 Trapezius
+
 6. Kettlebell Swing 2 x 12 kg or 1 x 20 kg
 	Махи гирей на каждую руку или одна на двоих
 
 Lumbar and extensors
+
 7. Deadlift
 	Становая тяга со согнутыми ногам
 
@@ -147,31 +159,40 @@ Lumbar and extensors
 3 x 12
 ```
 
+#### Best option / Basis
 ```bash
+Side delt
+
+1. Cable lateral raises
+	Отведение руки в кроссовере
+
+Front delt
+
+2. Cable front raises
+	Подъемы троса вперед
 
 Rear delt
 
-1. Rear Delt Flies 22+ kg
+3. Rear Delt Flies 22+ kg
 	Разведение задних дельт
+```
 
-2. Cable rear delt fly 9 kg
-	Разведение задних дельт на тросе
-
-Side delt 9 kg
+#### Additional physical exercises
+```bash
+Side delt
 
 1. Lateral raises
 	Махи гантели
 
-2. Cable lateral raises
-	Отведение руки в кроссовере
+Front delt
 
-Front delt 9 kg
-
-1. Seated DB overhead press
+2. Seated DB overhead press
 	Жим гантелей / штанги над головой cтоя, сидя или на тренажере
 
-2. Cable front raises
-	Подъемы троса вперед
+Rear delt
+
+3. Cable rear delt fly 9 kg
+	Разведение задних дельт на тросе
 ```
 
 ***
@@ -227,8 +248,8 @@ Oblique abdominal muscles
 1. Lateral Torso Raises on a Roman Chair 10 kg
 	Боковые подъемы туловища на римском стуле
 
-2. Landmine rollout
-	Скручивания на т-образном грифе
+2. Frontal rolling with wide and narrow stand
+	Фронтальный прокат с широкой и узкой стойкой
 
 Transverse abdominal muscle
 
@@ -273,35 +294,42 @@ All ABS
 3 x 10 - 15
 ```
 
-#### Chapter 1
+#### Best option / Basis
 ```bash
 Biceps
 
-1. Hammer curl
-	Сгибание рук «молоток»
+Short head
 
-2. Scott Bench Curls
-	1. Сгибание рук на скамье Скотта
+1. Scott Bench Curls
+	Сгибание рук на скамье Скотта
+
+Long head
+
+2. Incline Biceps Curl
+	Сгибание бицепса на наклонной скамье
+
+Brachialis
+
+3. Hammer curl
+	Сгибание рук «молоток»
 
 Triceps
 
-3. Dumbbell SkullCrushers
-	Французский жим гантелей / штанги лежа на наклонной скамье
+Long head
 
-4. Chest supported triceps kickbacks
-	Отведение рук назад на трицепс с опорой на грудь
+4. Barbell SkullCrushers
+	Французский жим штанги лежа на наклонной скамье за головой
+
+Lateral Head
+
+5. Reverse Push-Ups with Feet Elevated and Weight on Thighs
+	Обратные отжимания с постановкой ног на возвышенность и весом на бедрах
+
+Mediate Head
+
+6. Reverse Grip Crossover Triceps Extension
+	Разгибание рук в кроссовере обратным хватом
 ```
-
-#### Chapter 2
-```bash
-Biceps
-
-1. Incline Biceps Curl
-	Сгибание бицепса на наклонной скамье
-
-2. 
-```
-
 
 ```bash
 Muscles of the thigh, posterior group
@@ -325,45 +353,34 @@ Medial thigh group: adductor muscles
 2. Leg abduction machine
 	Разведение ног в тренажере
 ```
+
 ***
 
 # День 6
 
 #### Forearms / Leg
 
-#### Chapter 1
+#### Best option / Basis
 ```bash
 Flexors
 
-1. Cable straight bar wrist curl
-	Сгибание запястий на тросовом грифе
-
-Extensors
-
-1. Cable reverse wrist curl
-	Сгибание запястья на тросе с обратным хватом
-
-Brachioradialis
-
-1. Ez bar reverse curl
-	EZ-штанга с обратным сгибанием рук
-```
-
-#### Chapter 2
-```bash
-Brachioradialis
-
-1. Crossbody Dumbbell Hammer Curl
-	Сгибание рук с гантелями через плечо в положении «молот»
-
-Flexors
 1. Dumbbell wrist curl
 	Сгибание запястья с гантелями
 
 Extensors
 
-1. Dumbbell wrist extensions
+2. Dumbbell wrist extensions
 	Разгибание запястий с гантелями
+
+Brachioradialis
+
+3. Reverse crunches with EZ-bar on Scott Bench
+	Обратные скручивая с EZ образным грифом на скамье Скотта
+
+Pronator
+
+4. Pronation Forearm Flex
+	Поворот преплечья с отягощением на конце каната (блины, гиря)
 ```
 
 ```bash
@@ -389,6 +406,24 @@ Calf muscles
 	Подъем на носки с гантелями
 ```
 
+#### Additional physical exercises
+```bash
+Flexors
+
+1. Cable straight bar wrist curl
+	Сгибание запястий на тросовом грифе
+
+Extensors
+
+1. Cable reverse wrist curl
+	Сгибание запястья на тросе с обратным хватом
+
+Brachioradialis
+
+3. Crossbody Dumbbell Hammer Curl
+	Сгибание рук с гантелями через плечо в положении «молот»
+```
+
 ***
 
 # Premium exercise
@@ -401,10 +436,4 @@ Calf muscles
 
 2. Jumping rope with alternate straightening of one leg
 	Прыжки на скакалке с попеременным выпрямлением одной ноги
-```
-
-#### ABS
-
-```bash
-
 ```
