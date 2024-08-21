@@ -7,7 +7,7 @@
 
 # День 1
 
-#### Chest / Back [[Chest Back URL]] [Chest-Back](https://github.com/ShadowOutlook/temporarily/blob/main/Chest-Back.md)
+#### Chest + Back
 ```bash
 3 x 8 - 12
 ```
@@ -23,7 +23,7 @@ Middle
 
 Hight
 
-2. Incline DB bench 15 kg / 45 kg
+2. Incline Dumbbell / Barbell bench 15 kg / 45 kg
 	Жим гантелей / штанги на наклонной скамье
 
 Low
@@ -54,7 +54,8 @@ Trapezius
 
 Lumbar and extensors
 
-5. Romanian Deadlift
+5. Hyperextension
+	Гиперэкстензия
 ```
 
 ***
@@ -177,48 +178,37 @@ Calf muscles
 3 12 - 15
 ```
 
-#### Chapter 1
+#### Best option / Basis
+
 ```bash
-Oblique abdominal muscles
-
-1. Lateral Torso Raises on a Roman Chair 10 kg
-	Боковые подъемы туловища на римском стуле
-
-2. Frontal rolling with wide and narrow stand
-	Фронтальный прокат с широкой и узкой стойкой
-
-Transverse abdominal muscle
-
-1. Landmine Rotations / twist 10 - 15 kg
-	Вращение т-образного грифа
-
-2. Medball russian twist 7 kg
-	Русские скручивания с медболом
-```
-
-#### Chapter 2
-```bash
-Rectus abdominis muscles
-
-1. Modified Candlestick / Reverse Crunches on a Bench
-	Обратные скручивания на скамье
-
 Lower ABS
 
 1. Back supported knee raises
 	Подъем колена с опорой на спину
 
+Transverse abdominal muscle
+
+2. Medball russian twist 7 kg
+	Русские скручивания с медболом
+
+Rectus abdominis muscles
+
+3. Modified Candlestick / Reverse Crunches on a Bench
+	Обратные скручивания на скамье
+
+Oblique abdominal muscles
+
+4. Frontal rolling with wide and narrow stand
+	Фронтальный прокат с широкой и узкой стойкой
+
+5. Lateral Torso Raises on a Roman Chair 15 kg
+	Боковые подъемы туловища на римском стуле
+
 Upper ABS
 
-1. Rope crunches
+6. Rope crunches
 	Скручивания в кроссовере
 
-All ABS
-1. V-ups
-	V образный подъем
-
-2. Сrunches on a fitball
-	Скручивания на фитболе
 ```
 
 ***
