@@ -1,38 +1,4 @@
-
 # День 4
-
-#### ABS
-```bash
-3 12 - 15
-```
-
-#### Best option / Basis
-
-```bash
-Lower ABS
-
-1. Back supported knee raises
-	Подъем колена с опорой на спину
-
-Transverse abdominal muscle
-
-2. Medball russian twist
-	Русские скручивания с медболом
-
-Rectus abdominis muscles
-
-3. Modified Candlestick / Reverse Crunches on a Bench
-	Обратные скручивания на скамье
-
-Oblique abdominal muscles
-
-4. Lateral Torso Raises on a Roman Chair 15 kg
-	Боковые подъемы туловища на римском стуле
-```
-
-***
-
-# День 5
 
 #### Acceleration-saturation with blood
 
@@ -92,7 +58,7 @@ Pronator
 
 ***
 
-# День 6
+# День 5
 
 #### LegsABS
 

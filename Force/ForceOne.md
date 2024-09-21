@@ -32,8 +32,8 @@ Middle
 
 Hight
 
-3. Incline Dumbbell / Barbell bench
-	Жим гантелей / штанги на наклонной скамье
+3. Incline Barbell bench
+	Жим штанги на наклонной скамье
 
 Low
 
@@ -77,7 +77,7 @@ Muscles of the thigh, posterior group
 	Приседания в Смите с широкой постановкой ног
 ```
 
-#### ShouldersLeg
+#### ShouldersABS
 ```bash
 3 x 12
 ```
@@ -97,7 +97,29 @@ Front delt
 Rear delt
 
 4. Rear Delt Flies
-	Разведение задних дельт
+	Разведение задних дельт в кроссовере
+```
+
+```bash
+Lower ABS
+
+1. Back supported knee raises
+	Подъем колена с опорой на спину
+
+Transverse abdominal muscle
+
+2. Medball russian twist
+	Русские скручивания с медболом
+
+Rectus abdominis muscles
+
+3. Modified Candlestick / Reverse Crunches on a Bench
+	Обратные скручивания на скамье
+
+Oblique abdominal muscles
+
+4. Lateral Torso Raises on a Roman Chair 15 kg
+	Боковые подъемы туловища на римском стуле
 ```
 
 ***
